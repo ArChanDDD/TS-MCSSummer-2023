@@ -4,3 +4,11 @@
 ## Преподаватели
 * Понизяйкин Владислав Алексеевич - tg: [@ArChanDD](https://t.me/ArChanDD)
 * Ушаков Михаил Сергеевич - tg: [@MuwecTb](https://t.me/MuwecTb)
+
+## Содержание курса
+— Анализ временных рядов
+— Тренды, сезонности и регрессии
+— Moving average, ARMA
+— Prophet
+— Feature Engineering
+— Etna

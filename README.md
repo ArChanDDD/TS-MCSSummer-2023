@@ -6,9 +6,18 @@
 * Ушаков Михаил Сергеевич - tg: [@MuwecTb](https://t.me/MuwecTb)
 
 ## Содержание курса
-— Анализ временных рядов
-— Тренды, сезонности и регрессии
-— Moving average, ARMA
-— Prophet
-— Feature Engineering
-— Etna
+*15.06.2023*
+* 1 лекция
+  * Анализ временных рядов
+  * Тренды, сезонности и регрессии
+* 1 практика
+  * TODO
+
+*16.06.2023*
+* 2 лекция
+  * Moving average, ARMA
+  * Prophet
+  * Feature Engineering
+  * Etna
+* 2 практика
+  * TODO

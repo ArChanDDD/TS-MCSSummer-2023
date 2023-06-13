@@ -7,18 +7,22 @@
 
 ## Содержание курса
 *15.06.2023*
-* 1 лекция
+* [1 лекция](https://github.com/ArChanDDD/TS-MCSSummer-2023/blob/main/Лекции/Лекция%201.pdf)
   * Анализ временных рядов
   * Тренды, сезонности и регрессии
-  * Moving average, ARMA
-* 1 практика
-  * TODO
+  * Moving average, ARMA, ARIMA
+* [1 практика](https://colab.research.google.com/drive/1KTA6qkCdanyIpaiLQXqu0C7vftSo13BQ?usp=sharing)
+  * Наивная модель
+  * Линейная регрессия
+    * На одном параметре
+    * Полиномиальная регрессия
+  * ARIMA
 
 *16.06.2023*
 * 2 лекция
-  * Sarimax
-  * Prophet
-  * Etna
+  * SARIMA, SARIMAX
   * Feature Engineering
+  * Prophet
+  * ETNA
 * 2 практика
   * TODO

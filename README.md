@@ -10,14 +10,15 @@
 * 1 лекция
   * Анализ временных рядов
   * Тренды, сезонности и регрессии
+  * Moving average, ARMA
 * 1 практика
   * TODO
 
 *16.06.2023*
 * 2 лекция
-  * Moving average, ARMA
+  * Sarimax
   * Prophet
-  * Feature Engineering
   * Etna
+  * Feature Engineering
 * 2 практика
   * TODO

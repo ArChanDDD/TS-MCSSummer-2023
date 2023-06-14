@@ -26,3 +26,8 @@
   * ETNA
 * 2 практика
   * TODO
+
+
+## Cоревнование
+
+Его можно найти на [Kaggle](https://www.kaggle.com/competitions/timeseries-summer-mkn-2023), а посмотреть на данные для практик и соревнования можно в [data](https://github.com/ArChanDDD/TS-MCSSummer-2023/tree/main/data)

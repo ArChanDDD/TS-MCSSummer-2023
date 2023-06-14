@@ -7,7 +7,7 @@
 
 ## Содержание курса
 *15.06.2023*
-* [1 лекция](https://github.com/ArChanDDD/TS-MCSSummer-2023/blob/main/Лекции/Лекция%201.pdf)
+* [1 лекция](https://github.com/ArChanDDD/TS-MCSSummer-2023/blob/main/Лекции/Предсказание%20временных%20рядов%201.pdf)
   * Анализ временных рядов
   * Тренды, сезонности и регрессии
   * Moving average, ARMA, ARIMA
@@ -19,7 +19,7 @@
   * ARIMA
 
 *16.06.2023*
-* 2 лекция
+* [2 лекция](https://github.com/ArChanDDD/TS-MCSSummer-2023/blob/main/Лекции/Предсказание%20временных%20рядов%202.pdf)
   * SARIMA, SARIMAX
   * Feature Engineering
   * Prophet

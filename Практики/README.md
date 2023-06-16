@@ -10,3 +10,6 @@
 Соревнования:
 * [Cоревнование с нормальным описанием](https://www.kaggle.com/competitions/timeseries-summer-mkn-2023)
 * [Перезапущенное соревнование](https://www.kaggle.com/competitions/mkn-ss-ts)
+
+
+https://rdrr.io/cran/modeltime/man/prophet_params.html

@@ -24,7 +24,7 @@
   * Feature Engineering
   * Prophet
   * ETNA
-* 2 практика
+* [2 практика](https://colab.research.google.com/drive/1Skeukl7NjV6goyI0-klfXcc2dKQdfWtV?usp=sharing)
   * TODO
 
 

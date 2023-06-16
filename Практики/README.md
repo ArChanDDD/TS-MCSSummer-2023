@@ -9,4 +9,4 @@
 
 Соревнования:
 * [Cоревнование с нормальным описанием](https://www.kaggle.com/competitions/timeseries-summer-mkn-2023)
-* [Перезапущенное соревнование](https://www.kaggle.com/t/48be09577a0a47699547989d376f359f)
+* [Перезапущенное соревнование](https://www.kaggle.com/competitions/mkn-ss-ts)
